@@ -1,0 +1,44 @@
+
+/* 
+For each element there is an error with the syntax - find it and fix it
+
+The cool thing about syntax highlighter and ES Lint is that they give you a pretty decent hint as to where the problem lies.
+How to read the hints is just as important as understanding the syntax as well. 
+*/ 
+
+body{
+    font-size large;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+main
+    display: flex;
+    width: 70%;
+    margin: 0px auto;
+
+    flex-direction: column;
+
+
+<h1> {
+    font-size: 2em;
+    color: cadetblue;
+    text-align: center;
+}
+
+.accent background {
+    background-color: pink;
+}
+
+.gallery-box{
+    display: flex;
+
+    max-height: 30%;
+    widt: 100%;
+    overflow: scroll;
+
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0.5em;
+}
+
