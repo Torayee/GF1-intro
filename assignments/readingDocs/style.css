@@ -1,0 +1,267 @@
+
+/***************************************************
+                    VARIABLES 
+***************************************************/
+/* 
+    These are handy as well as they let you define a value to be reused throughout the css document. 
+    The :root element is a predefined element for storing variables.
+    --variablename is the syntax used to define a variablename - the name you choose yourself but must start with --
+    The value can be any CSS value in existence I use variables mostly for theme related stuff like colors and typography that I will reuse in several elements.
+    This makes it easier to change as you don't have to find the value several places but only in one.
+    You call the variable in place of a value by using var(--variablename).
+*/
+
+/*
+    Q: In which ways can I write a color in CSS?
+    A: 
+*/
+:root{
+    --base-color: #36454F;
+    --inverse-color: white;
+    --accent-color: cadetblue;
+    --accent-font: 'Times New Roman', Times, serif;
+
+}
+
+/***************************************************
+                GLOBAL STYLING 
+***************************************************/
+
+/*
+    Q: What is the * element or star/reset rule as it's also called?
+    A: 
+*/
+
+* {
+    margin:0;
+    padding:0;
+}
+
+/* 
+    Q: What is a font family in CSS?
+    A: 
+*/
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: var(--base-color);
+}
+
+a {
+    text-decoration: none;
+    color: var(--base-color);
+}
+a:hover {
+    color: var(--accent-color);
+}
+
+/*
+    Q: How do you select multiple elements for the same styling?
+    A:  
+    
+*/
+
+h1, h2 {
+    width: 100%;
+}
+
+
+h3 {
+    width: 100%;
+
+    padding-top: 1em;
+
+    color: var(--accent-color);
+    
+}
+
+p {
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    text-align: justify;
+}
+
+/***************************************************
+                HEADER MENU
+***************************************************/
+
+/* 
+    Q: What does position: fixed; do?
+    A:
+*/
+header {
+    position: fixed;
+    display: flex;
+
+    height: fit-content;
+    width: 100%;
+    
+    background-color: var(--inverse-color);
+
+    border-bottom: 1px solid black;
+
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    max-height: 6em;
+}
+
+/*
+    Q: What is a child element in CSS?
+    A: 
+*/
+ul {
+    display: flex;
+
+    padding: 1em;
+
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+    gap: 3em;
+}
+ul li {
+    list-style: none;
+}
+
+
+/***************************************************
+                    MAIN CONTENT 
+***************************************************/
+
+/*
+    Q: What is the vw unit?
+    A: 
+*/
+
+main {
+    display: flex;
+
+    margin: 0px auto;
+    padding-top: 6em;
+    max-width: 70vw;
+
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+/*
+    Q: What is the dfference between margin and padding?
+    A: 
+*/
+section {
+    display: flex;
+
+    padding-top: 2em;
+    padding-bottom: 2em;
+    width: 100%;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+section p {
+    width: 48%;
+}
+
+article {
+    padding-top: 1em;
+}
+
+article p {
+    width: 100%;
+
+    font-size: small;
+}
+
+.some-icons {
+    display: flex;
+
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    font-size: 4em;
+    color: var(--accent-color);
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5em;
+    
+}
+
+
+
+/*
+    Q: what is the difference between the color and background-color properties?
+    A: 
+*/
+
+.calltoaction-text {
+    width: 100%;
+
+    font-family: var(--accent-font);
+    font-size: 6em;
+    font-weight: bolder;
+    color: var(--accent-color);
+
+    text-align: center;
+}
+
+/*
+    Q: What is flex-direction?
+    A: 
+*/
+
+.product {
+    width: 15em;
+}
+
+button {
+    padding: 0.5em;
+
+    background-color: var(--inverse-color);
+    
+    font-size: 1em;
+    color: var(--base-color);
+
+    border: 2px solid var(--base-color);
+    border-radius: 5px;
+
+}
+
+button:hover {
+    color: var(--accent-color);
+
+    border-color: var(--accent-color);
+    cursor: pointer;
+
+}
+
+/***************************************************
+                FOOTER CONTACTS 
+***************************************************/
+
+footer {
+    display: flex;
+
+    min-height: fit-content;
+    margin-top: 2em;
+    margin-bottom: 0;
+    padding: 2em;
+
+    font-style: italic;
+
+    border-top: 1px solid black;
+
+    justify-content: center;
+}
+
