@@ -19,7 +19,8 @@ The video uses several external tools/websites during the process. These are lis
 
 [Video tutorial - HTML CSS Digital Business Card](https://www.youtube.com/watch?v=h4dW7VyiP_M&list=PLHf0m3JrpGdp1TdbHk7MdE7H4gbS8QjIv)
 
-Links used in the video: 
+### Links used in the video: 
+
 [Pexels - Stock photos with a free download option](https://www.pexels.com/da-dk/)
 [Random cat generator - An alternative til Pexels for this project](https://thiscatdoesnotexist.com)
 [Coolor - Genereate and explore color palets (it's addictive)](https://coolors.co/)
