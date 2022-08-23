@@ -21,13 +21,13 @@ The video uses several external tools/websites during the process. These are lis
 
 ### Links used in the video: 
 
-[Pexels - Stock photos with a free download option](https://www.pexels.com/da-dk/)
-[Random cat generator - An alternative til Pexels for this project](https://thiscatdoesnotexist.com)
-[Coolor - Genereate and explore color palets (it's addictive)](https://coolors.co/)
-[Google Font - Find different fonts for your web or design project](https://fonts.google.com/)
-[Fontawesome - Icons you can use on your website or design project](https://fontawesome.com/)
+* [Pexels - Stock photos with a free download option](https://www.pexels.com/da-dk/)
+* [Random cat generator - An alternative til Pexels for this project](https://thiscatdoesnotexist.com)
+* [Coolor - Genereate and explore color palets (it's addictive)](https://coolors.co/)
+* [Google Font - Find different fonts for your web or design project](https://fonts.google.com/)
+* [Fontawesome - Icons you can use on your website or design project](https://fontawesome.com/)
 
-Tools and Progammes used besides above: 
-[Visual studio Code](https://code.visualstudio.com/)
-[GIT](https://git-scm.com/)
-[GitHub](https://github.com/)
+### Tools and Progammes used besides above: 
+* [Visual studio Code](https://code.visualstudio.com/)
+* [GIT](https://git-scm.com/)
+* [GitHub](https://github.com/)
