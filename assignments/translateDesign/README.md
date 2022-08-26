@@ -49,5 +49,16 @@ The wireframe shows you whitch element goes where and is within each other. So y
 
 **REMEMBER that the finished HTML should look like `resume-no-style.pdf`**
 
+## BONUS Assignment
+**For those of you absolutely insisting on finnishing a 10 week course i 1 week ;)**
+
+Use what you have learned in CSS so far to make your webpage look like the original `resume-with-style.pdf`. You will need a lot of flexbos properties so if you haven't already then finish the [Flexbox Froggy](https://flexboxfroggy.com/#da) game before you start this bonus assignments. 
+
+Otherwise here is a list of helpful links you can scope out to finish the assignment:
+* [Visual overview of flexbox properties](https://cssreference.io/flexbox/)
+* [Visual overview of boxmodel properties](https://cssreference.io/box-model/) - These are height, width, padding etc. 
+* [Visual overview of typography properties](https://cssreference.io/typography/)
+* [a guide to css selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) - Classes, elements etc.
+
 
 
