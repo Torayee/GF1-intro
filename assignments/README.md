@@ -1,5 +1,5 @@
 # Introducing webdevelopment on GF1
-- and yes the text is english as the main language you'll find in tutroials and documentations will be english. However - the video language and language spoken when presenting at the whiteboard is danish. 
+*and yes the text is english as the main language you'll find in tutroials and documentations will be english. However - the video language and language spoken when presenting at the whiteboard is danish.* 
 
 ### The goal
 The goal is for all students to have finished the following assignments within a week and a half:
@@ -22,11 +22,12 @@ This repository contains assignments used to introduce GF1 students to webdevelo
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [GIT](https://git-scm.com/download)
 * [GitHub](https://github.com/)
-* Visual Studio Code - extensions
-    * Livserver
-    * prettier
+* [Visual Studio Code - extensions](https://code.visualstudio.com/docs/editor/extension-marketplace)
+    * [Liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    * [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Subjects and instructions to go over before the assignments
+These should be done in plenum with the projector and supported by a todo list on the chosen LMS (moodle/teams).
 
 Set up git in VS Code by following these instructions: 
 * Open terminal > new terminal
@@ -47,7 +48,7 @@ Subjects for Quick guide in using github and VS Code:
 This course focus more on the "how to learn" than the "how to do" part of the education. Every assignment is linked to a specific process or procedure that a webdeveloper use everyday both as a students and after graduation. 
 
 The assignments should be completed in following order: 
-* Installation and configuring - 3 lessons
+* Installation and configuring (see above)- 3 lessons
 * debugSyntax - 1 lessons
 * readingDocs - 1-2 lessons 
 * followTutorial - 8-11 lessons 
@@ -83,5 +84,5 @@ So far the most common questions and need for help has been following:
 ## Other comments
 [to be added]
 
-**Have fun** :metal
+**Have fun** 🤘
 *- Sarah-Elizabeth Laws - @akaLaws*
