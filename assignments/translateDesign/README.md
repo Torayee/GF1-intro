@@ -12,9 +12,9 @@ Now you are starting out I will show you a tool you can use to analyze the desig
 
 An example on how to translate these boxes from design to wireframe to HTML.
 
-![The design example](design-example.png)
+![The design example](design-example.PNG)
 
-![The wireframe example](frame-example.png)
+![The wireframe example](frame-example.PNG)
 
 The code example: 
 ```
