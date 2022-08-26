@@ -9,7 +9,7 @@ A part of building a website from a designers vision is to be able to analyse th
 Every HTML element has a purpose some is obvious. You wouldn't put a `<footer></footer>` at the top of your page for example. Some needs an extra look in the documentation to fully get. 
 
 Now you are starting out I will show you a tool you can use to analyze the design - we call this wireframing. And it's - you guessed it - drawing boxes and naming them. It's a visual rendition of the HTML document. 
- 
+
 An example on how to translate these boxes from design to wireframe to HTML.
 
 ![The design example](design-example.png)
@@ -45,6 +45,9 @@ The wireframe shows you whitch element goes where and is within each other. So y
 * Type `!` and press enter in your index file
 * Then write the HTML elements as they are in the wireframes 
 * Then write content in your HTML elements (you can make up content or use the [lorem ipsum text examples](https://www.lipsum.com/) )
+
+
+**REMEMBER that the finished HTML should look like `resume-no-style.pdf`**
 
 
 
