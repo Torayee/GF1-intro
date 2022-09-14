@@ -30,31 +30,40 @@ The code example:
 </header>
 
 ```
-Whenever there is three dots `...` in the wireframe it means that the element can be copied and repeated the number of times it's relevant.
 
-in the file `theory.html` is a more thorough explanation of the HTML syntax that might come in handy so I suggest you read it thorugh. 
+Besides a wireframe you will also see a styleguide. This is a guide of the design for the webpage. These may contain the color codes, the font styles and sizes and icons or even how parts of the design like the menu should look like. It's expected that you adhere to these styleguides strichtly. As a wwebdeveloper you do NOT design the webpages (except your own projects) your most important job is to translate the abstract vision of the designer into a interactive, functional webpage by bringing system to creativity. That in it self may require a level of creativity and that's why you need all the image and compositions analysis learned in langauage and art classes in school. 
+
+Though you are rarely left to fend for your self in this translation of the design. This is where wireframes and styleguides come in handy. You don't have to waste time matching the color of a given design to find the perfect HEX code. I'ts already given to you. A lot of the wireframe CSS is what you save in your `layout.css` while a lot of the styleguide CSS is saved in `variables.css` and `base.css`.
+
+Besides these handy helpinng documents, you'll often see a specification from the client. This entails all the subpages, functionalities and etc. of the webpage. **Read this thoroughly through** before any project. This might also let you know ehere to find text and images. In any case this is where you'll get most of your questions answered. If not - then this is where you should make sure to ask the client for any further information that you can solve your assignment. 
+
 
 ## The assignment
-A designer has approached you with a design for a CV/resume `resume-with-style.pdf` they want as a website. You job is to build this website using HTML and CSS. You have a benevolent boss (that's me) that has already given you the wireframe `resume-html-elements-frame.pdf` AND a document showing you how the website should look with only HTML (BEFORE! you make the CSS styling) `resume-no-style-pdf`.
+A client has approach you. They need a new online resumé and they haven't had the time or energy to watch my youtube videos, as they panic over writing enough daily job-applications. So they ask YOU to code the HTML and CSS for this resume. 
 
-The wireframe shows you whitch element goes where and is within each other. So your job is following:
+They have already provided you with the final design `resume-with-style.pdf` and even how the structure of the HTML whould look without CSS styling `resume-no-style.pdf`. Furthermore they have provided a styleguide `resume-styleguide.pdf` and wireframe `resume-wireframe.pdf`. All the page needs to entail is listed in `resume-kravspecifikation.pdf`. Images for the webpage are found in the `images` folder and the text for the webpage is found in the `texts` folder. 
 
+You now have all the elements you need to make a webpage to the clients exact specification. 
+
+This assignment is strict - you are to follow the designs, texts and images given. You are not to customize or make your own interpretation. Your creativity for this assignment should be how you code and not how you design. 
+
+**The subtasks for this assignment is as follows:**
 * Make a new repository on github called `resume`
 * Clone the repository to VS Code - save the location for the repository in you `codeprojects` folder next to your `visitkort` project.
 * Create an `index.html` file in your resume project in VS Code
 * Type `!` and press enter in your index file
 * Then write the HTML elements as they are in the wireframes 
-* Then write content in your HTML elements (you can make up content or use the [lorem ipsum text examples](https://www.lipsum.com/) )
+* Then write content in your HTML elements - those are found in the `images` and `texts` folder of this assignment
+* Then write the CSS for the webpage adhering to the design provided by the client `resume-with-style.pdf` and the styleguide `resume-styleguide.pdf`
+* HINT: Does the design look familiar?
+* Remember to stage and commit your project frequently
+* When finished: make sure your repository on GitHub is set to "public" visibility
+* **DO NOT** puplish this webpage it's **NOT** a part of the assignment
+* Hand in the assignment as specified by your teacher of the day (this will most likely be specified on a teams post as well)
 
 
-**REMEMBER that the finished HTML should look like `resume-no-style.pdf`**
-
-## BONUS Assignment
-**For those of you absolutely insisting on finnishing a 10 week course i 1 week ;)**
-
-Use what you have learned in CSS so far to make your webpage look like the original `resume-with-style.pdf`. You will need a lot of flexbos properties so if you haven't already then finish the [Flexbox Froggy](https://flexboxfroggy.com/#da) game before you start this bonus assignments. 
-
-Otherwise here is a list of helpful links you can scope out to finish the assignment:
+### Useful links:
+* [Flexbox Froggy](https://flexboxfroggy.com/#da) - A game that teaches you flexbox 
 * [Visual overview of flexbox properties](https://cssreference.io/flexbox/)
 * [Visual overview of boxmodel properties](https://cssreference.io/box-model/) - These are height, width, padding etc. 
 * [Visual overview of typography properties](https://cssreference.io/typography/)

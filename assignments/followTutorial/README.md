@@ -13,11 +13,29 @@ This is also why we are making a digital business card. This is what you can lin
 
 
 ## The assignment
-This assignment is following a tutorial from youtube on how to make a digital business card in HTML and CSS - the tutorial starts from scratch. We will watch the videos together and try and code along or we will pause if there is any questions. After the video we will use some time to catch up and code and debug etc. before continuing with the next video and step in the tutorial. 
+This assignment is following a tutorial from youtube on how to make a digital business card in HTML and CSS - the tutorial starts from scratch. You will watch the videos your self in your pace. 
 
 The video uses several external tools/websites during the process. These are listed in the video descriptions - and here. 
 
-[Video tutorial - HTML CSS Digital Business Card](https://www.youtube.com/watch?v=h4dW7VyiP_M&list=PLHf0m3JrpGdp1TdbHk7MdE7H4gbS8QjIv)
+[Video tutorial - HTML CSS Digital Business Card](https://youtube.com/playlist?list=PLHf0m3JrpGdqaVjoTvprvm1E-HXYmqfVW).
+
+### Assignment #1
+Video #1 - #8 + #14
+
+### Assignment #2
+Video #9 - #11 + #14
+
+### Assignment #3
+Video #12 - #14
+
+### Deployment (making the website public)
+
+**IMPORTANT INFO:**
+* Video **#14** shows you how to deploy the webpage so anyone can acces your page with the link. You can follow this instruction after video **#8**, **#11** or **#13** - depending on how far you get. 
+* The video also contains a lot of tips, tricks and usefull knowledge about how and why, so take a listen and read the descriptions for each video as the might provide important information and usefull links. 
+* IF the video is too slow or fast - remember that you can turn up/down the pace of the video on the player. 
+* The videos also shows the process of the development including any mistakes - so sometimes it makes sense to listen or watch the video before you start to follow along with the code. It's a good exercise in reading and understanding the assignment before executing the solution. ;)
+
 
 ### Links used in the video: 
 
