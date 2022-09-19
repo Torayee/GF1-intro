@@ -7,26 +7,26 @@ How to read the hints is just as important as understanding the syntax as well.
 */ 
 
 body{
-    font-size large;
+    font-size: large;
     font-family: 'Courier New', Courier, monospace;
     
 }
 
-main
+main{
     display: flex;
     width: 70%;
     margin: 0px auto;
 
     flex-direction: column;
+}
 
-
-<h1> {
+h1{
     font-size: 2em;
     color: cadetblue;
     text-align: center;
 }
 
-.accent background {
+.accent{
     background-color: pink;
 }
 
@@ -34,7 +34,7 @@ main
     display: flex;
 
     max-height: 30%;
-    widt: 100%;
+    width: 100%;
     overflow: scroll;
 
     flex-direction: row;
