@@ -29,6 +29,7 @@ Video #9 - #11 + #14
 Video #12 - #14
 
 ### Deployment (making the website public)
+Video #14
 
 **IMPORTANT INFO:**
 * Video **#14** shows you how to deploy the webpage so anyone can acces your page with the link. You can follow this instruction after video **#8**, **#11** or **#13** - depending on how far you get. 
@@ -49,3 +50,13 @@ Video #12 - #14
 * [Visual studio Code](https://code.visualstudio.com/)
 * [GIT](https://git-scm.com/)
 * [GitHub](https://github.com/)
+
+### Other links for inspiration to play around
+* [CSS design trends for 2022](https://99designs.dk/blog/trends/web-design-trends/) - Make you website stand out
+* [New tips and tricks for CSS everyday](https://css-tricks.com/) - get inspired and learn some more on css
+* [CSS animations - with code samples to use](https://blog.hubspot.com/website/css-animation-examples) - You want some movement on your page?
+* [Learn CSS flexbox in this game](https://flexboxfroggy.com/#da) - Good for understanding the layout used in the tutorial
+* [Learn CSS grid in this game](https://cssgridgarden.com/) - Another way to do layouts in CSS (often both grid and flexbox is used)
+* [Neumorphism generator for CSS](https://neumorphism.io/#e0e0e0) - Can you implement these in your design (it was all the rage in 2020)
+* [Glassmorphism generator for CSS](https://css.glass/) - Still popular in 2022, you might have seen it before
+* [HTML and CSS challenges](https://www.codecademy.com/resources/blog/html-and-css-code-challenges-for-beginners/) - you want to see what you can do, try these..
